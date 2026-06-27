@@ -19,6 +19,8 @@ The Health specifications define a unified ecosystem of open-source, privacy-fir
 
 At the frontier, the specs also include emerging neurotechnology interfaces using wearable EEG systems for cognitive state detection and assistive control, positioning the ecosystem as both medical infrastructure and human augmentation framework. The overall design philosophy connects personal wellness, clinical-grade analytics, and global health transparency into a single interoperable architecture. A Specification Branding License may be negotiated for organizations or deployers who wish to use these systems in attribution-free commercial or networked environments, with pricing determined by the size, scale, and scope of the deployment network.
 
+## Health Specs
+
 - **Continuum Companion**  
   [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
   A modular, locally hosted, open-source AI platform designed to support integrative understanding of health, wellness, and human experience. It integrates structured AI research, evidence-backed information retrieval (distinguishing Western medical knowledge, Eastern traditions, and wellness practices), reflective tools, research archiving, and personalized wellness plan creation, with full privacy via local hosting.
