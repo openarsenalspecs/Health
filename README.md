@@ -65,6 +65,10 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
   An open-source global pharmaceutical intelligence platform for medication price transparency (international comparisons), manufacturer/supply chain tracking, recall monitoring, AI-driven safety analysis, adverse event insights, and evidence-based therapeutic/generic alternatives.
 
+- **The Interpretation Layer**  
+[https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
+The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.
+
   ---
 
 ## License & Notice Requirements
