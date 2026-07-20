@@ -69,7 +69,13 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
 The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.
 
-  ---
+---
+
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/health-specifications/](https://roxanneardary.com/health-specifications/)
+
+---
 
 ## License & Notice Requirements
 
