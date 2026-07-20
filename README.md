@@ -45,7 +45,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/quantum-synapse/](https://roxanneardary.com/quantum-synapse/)  
   An open-source, non-invasive brain-computer interface (BCI) platform using wearable EEG technology for real-time neural signal processing, mind-controlled interaction, cognitive state detection, and applications in accessibility and smart systems, with strong emphasis on privacy and local processing.
 
-- **ResponseOS**  
+- [**ResponseOS Module Specification**](https://github.com/openarsenalspecs/Health/blob/0593eb5c8522afe661626efcbac90b36da4071c4/ResponseOS.md)  
   [https://roxanneardary.com/responseos/](https://roxanneardary.com/responseos/)  
   An open-source platform for reproducible clinical research analysis using Bayesian modeling, meta-analysis, and normalized clinical trial data to evaluate treatment effectiveness versus placebo responses and improve transparency in biomedical literature.
 
