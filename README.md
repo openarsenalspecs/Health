@@ -25,7 +25,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
   A modular, locally hosted, open-source AI platform designed to support integrative understanding of health, wellness, and human experience. It integrates structured AI research, evidence-backed information retrieval (distinguishing Western medical knowledge, Eastern traditions, and wellness practices), reflective tools, research archiving, and personalized wellness plan creation, with full privacy via local hosting.
 
-- [**GoldenLens Module Specifications**](https://github.com/openarsenalspecs/Health/blob/5fc39495ec7844d82dbcc973f51d3d9a132af6f2/GoldenLens.md)  
+- [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/5fc39495ec7844d82dbcc973f51d3d9a132af6f2/GoldenLens.md)  
   [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)  
   An open-source AI-powered application that helps users explore multiple perspectives on their thoughts, situations, and emotions to reduce mental rigidity, ease emotional stress, and support clearer, more compassionate thinking. Includes guided reflection, mood tracking, and mental well-being features with a focus on privacy and non-clinical supportive reframing.
 
