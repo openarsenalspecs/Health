@@ -61,7 +61,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
   An open-source, real-time global database tracking pharmaceutical recalls for drugs, biologics, and vaccines, with company profiles, medication safety scoring, alerts, analytics, and accountability features for medications and manufacturers.
 
-- **SafeMeds Index**  
+- [**SafeMeds Index Module Specification**](https://github.com/openarsenalspecs/Health/blob/fa9ed171546887d7c40bd81f48fadef39696f70f/SafeMeds%20Index.md)    
   [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
   An open-source global pharmaceutical intelligence platform for medication price transparency (international comparisons), manufacturer/supply chain tracking, recall monitoring, AI-driven safety analysis, adverse event insights, and evidence-based therapeutic/generic alternatives.
 
