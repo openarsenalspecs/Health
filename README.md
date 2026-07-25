@@ -57,7 +57,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
   An open-source AI-driven clinical documentation platform for generating HIPAA-compliant medical notes via voice commands, real-time transcription, SOAP notes, coding suggestions, with EHR interoperability, specialty templates, and secure self-hosting.
 
-- **MediLens**  
+- [**MediLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/398c266c3b82a94961f84aae2420a6f49d4765a7/MediLens.md)    
   [https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
   An open-source, real-time global database tracking pharmaceutical recalls for drugs, biologics, and vaccines, with company profiles, medication safety scoring, alerts, analytics, and accountability features for medications and manufacturers.
 
