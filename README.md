@@ -33,7 +33,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/curelens/](https://roxanneardary.com/curelens/)  
   An open-source platform that analyzes clinical trial data to compare placebo and treatment outcomes, flag anomalies (e.g., high placebo performance), uncover patterns in medical efficacy, and support meta-analysis and reproducible research.
 
-- **BeautifAI**  
+- [**BeautifAI Module Specification**](https://github.com/openarsenalspecs/Health/blob/50ae48739fcf1cf45b2f2dc30236633694e6e5f2/BeautifAI.md)    
   [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
   An open-source AI-driven beauty platform for personalized makeup and hairstyle recommendations via skin tone/facial analysis and virtual try-on, including health-conscious shopping recommendations that highlight ingredient safety, non-toxic, cruelty-free, and vegan options.
 
