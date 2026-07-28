@@ -41,7 +41,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
   An open-source, real-time global database tracking pharmaceutical recalls for drugs, biologics, and vaccines, with company profiles, medication safety scoring, alerts, analytics, and accountability features for medications and manufacturers.
 
-- **MediNet AI**  
+- [**MediNet AI Module Specification**](https://github.com/openarsenalspecs/Health/blob/6577cbd1ac268e3a684e77e6865aeedfb087c2d5/MediNet%20AI.md)    
   [https://roxanneardary.com/medinet-ai/](https://roxanneardary.com/medinet-ai/)  
   An open-source AI platform for medical/dental image analysis with multi-modal disease detection (X-rays, CT, MRI, etc.), predictive modeling, explainable AI (heatmaps, confidence scores), automated reporting, EMR integration, patient engagement, and federated learning for clinical support and research.
 
