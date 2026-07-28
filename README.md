@@ -53,7 +53,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/smartsmile/](https://roxanneardary.com/smartsmile/)  
   An open-source AI-powered dental transparency platform for comparing pricing, verifying specials, detecting upsells, analyzing dental imaging, and helping patients find trustworthy, affordable care.
 
-- **ScribeVault**  
+- [**ScribeVault Module Specification**](https://github.com/openarsenalspecs/Health/blob/aee3749295383ace2a4484a5252fb9907fa2eb73/ScribeVault.md)    
   [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
   An open-source AI-driven clinical documentation platform for generating HIPAA-compliant medical notes via voice commands, real-time transcription, SOAP notes, coding suggestions, with EHR interoperability, specialty templates, and secure self-hosting.
 
