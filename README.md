@@ -21,21 +21,25 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
 
 ## Health Specs
 
+- [**BeautifAI Module Specification**](https://github.com/openarsenalspecs/Health/blob/50ae48739fcf1cf45b2f2dc30236633694e6e5f2/BeautifAI.md)    
+  [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
+  An open-source AI-driven beauty platform for personalized makeup and hairstyle recommendations via skin tone/facial analysis and virtual try-on, including health-conscious shopping recommendations that highlight ingredient safety, non-toxic, cruelty-free, and vegan options.
+
 - **Continuum Companion**  
   [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
   A modular, locally hosted, open-source AI platform designed to support integrative understanding of health, wellness, and human experience. It integrates structured AI research, evidence-backed information retrieval (distinguishing Western medical knowledge, Eastern traditions, and wellness practices), reflective tools, research archiving, and personalized wellness plan creation, with full privacy via local hosting.
-
-- [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/5fc39495ec7844d82dbcc973f51d3d9a132af6f2/GoldenLens.md)  
-  [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)  
-  An open-source AI-powered application that helps users explore multiple perspectives on their thoughts, situations, and emotions to reduce mental rigidity, ease emotional stress, and support clearer, more compassionate thinking. Includes guided reflection, mood tracking, and mental well-being features with a focus on privacy and non-clinical supportive reframing.
 
 - **CureLens**  
   [https://roxanneardary.com/curelens/](https://roxanneardary.com/curelens/)  
   An open-source platform that analyzes clinical trial data to compare placebo and treatment outcomes, flag anomalies (e.g., high placebo performance), uncover patterns in medical efficacy, and support meta-analysis and reproducible research.
 
-- [**BeautifAI Module Specification**](https://github.com/openarsenalspecs/Health/blob/50ae48739fcf1cf45b2f2dc30236633694e6e5f2/BeautifAI.md)    
-  [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
-  An open-source AI-driven beauty platform for personalized makeup and hairstyle recommendations via skin tone/facial analysis and virtual try-on, including health-conscious shopping recommendations that highlight ingredient safety, non-toxic, cruelty-free, and vegan options.
+- [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/5fc39495ec7844d82dbcc973f51d3d9a132af6f2/GoldenLens.md)  
+  [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)  
+  An open-source AI-powered application that helps users explore multiple perspectives on their thoughts, situations, and emotions to reduce mental rigidity, ease emotional stress, and support clearer, more compassionate thinking. Includes guided reflection, mood tracking, and mental well-being features with a focus on privacy and non-clinical supportive reframing.  
+
+- [**MediLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/398c266c3b82a94961f84aae2420a6f49d4765a7/MediLens.md)    
+  [https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
+  An open-source, real-time global database tracking pharmaceutical recalls for drugs, biologics, and vaccines, with company profiles, medication safety scoring, alerts, analytics, and accountability features for medications and manufacturers.
 
 - **MediNet AI**  
   [https://roxanneardary.com/medinet-ai/](https://roxanneardary.com/medinet-ai/)  
@@ -49,21 +53,17 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/responseos/](https://roxanneardary.com/responseos/)  
   An open-source platform for reproducible clinical research analysis using Bayesian modeling, meta-analysis, and normalized clinical trial data to evaluate treatment effectiveness versus placebo responses and improve transparency in biomedical literature.
 
-- **SmartSmile**  
-  [https://roxanneardary.com/smartsmile/](https://roxanneardary.com/smartsmile/)  
-  An open-source AI-powered dental transparency platform for comparing pricing, verifying specials, detecting upsells, analyzing dental imaging, and helping patients find trustworthy, affordable care.
+- [**SafeMeds Index Module Specification**](https://github.com/openarsenalspecs/Health/blob/fa9ed171546887d7c40bd81f48fadef39696f70f/SafeMeds%20Index.md)    
+  [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
+  An open-source global pharmaceutical intelligence platform for medication price transparency (international comparisons), manufacturer/supply chain tracking, recall monitoring, AI-driven safety analysis, adverse event insights, and evidence-based therapeutic/generic alternatives.
 
 - [**ScribeVault Module Specification**](https://github.com/openarsenalspecs/Health/blob/aee3749295383ace2a4484a5252fb9907fa2eb73/ScribeVault.md)    
   [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
   An open-source AI-driven clinical documentation platform for generating HIPAA-compliant medical notes via voice commands, real-time transcription, SOAP notes, coding suggestions, with EHR interoperability, specialty templates, and secure self-hosting.
 
-- [**MediLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/398c266c3b82a94961f84aae2420a6f49d4765a7/MediLens.md)    
-  [https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
-  An open-source, real-time global database tracking pharmaceutical recalls for drugs, biologics, and vaccines, with company profiles, medication safety scoring, alerts, analytics, and accountability features for medications and manufacturers.
-
-- [**SafeMeds Index Module Specification**](https://github.com/openarsenalspecs/Health/blob/fa9ed171546887d7c40bd81f48fadef39696f70f/SafeMeds%20Index.md)    
-  [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
-  An open-source global pharmaceutical intelligence platform for medication price transparency (international comparisons), manufacturer/supply chain tracking, recall monitoring, AI-driven safety analysis, adverse event insights, and evidence-based therapeutic/generic alternatives.
+- **SmartSmile**  
+  [https://roxanneardary.com/smartsmile/](https://roxanneardary.com/smartsmile/)  
+  An open-source AI-powered dental transparency platform for comparing pricing, verifying specials, detecting upsells, analyzing dental imaging, and helping patients find trustworthy, affordable care.
 
 - **The Interpretation Layer**  
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
