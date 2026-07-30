@@ -33,6 +33,10 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/curelens/](https://roxanneardary.com/curelens/)  
   An open-source platform that analyzes clinical trial data to compare placebo and treatment outcomes, flag anomalies (e.g., high placebo performance), uncover patterns in medical efficacy, and support meta-analysis and reproducible research.
 
+- [**GentleCardia Module Specification**](https://github.com/openarsenalspecs/Health/blob/02d8b0b05cb0f64f71c24655559d7f4ee2f31951/GentleCardia.md)  
+[https://roxanneardary.com/gentlecardia/](https://roxanneardary.com/gentlecardia/)  
+GentleCardia is an open-source, modular cardiac biosensing specification designed to create safe, transparent, and interoperable infrastructure for ECG acquisition, signal processing, and health technology development. Built with a safety-first architecture, GentleCardia enables researchers, developers, and innovators to create extensible cardiac sensing systems with open hardware, software, data standards, and AI integration
+
 - [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/5fc39495ec7844d82dbcc973f51d3d9a132af6f2/GoldenLens.md)  
   [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)  
   An open-source AI-powered application that helps users explore multiple perspectives on their thoughts, situations, and emotions to reduce mental rigidity, ease emotional stress, and support clearer, more compassionate thinking. Includes guided reflection, mood tracking, and mental well-being features with a focus on privacy and non-clinical supportive reframing.  
