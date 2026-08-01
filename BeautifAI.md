@@ -2,116 +2,370 @@
 
 **Discover. Learn. Glow.**
 
-BeautifAI is an open-source AI-powered beauty platform that helps users match cosmetics to their skin tone, try virtual makeup and hairstyles, learn professional techniques, and shop for the healthiest and best-priced beauty products locally and online.
+BeautifAI is an open-source AI-powered beauty platform that helps users discover personalized makeup and hairstyle recommendations through intelligent skin tone analysis, virtual try-on technology, educational content, and health-conscious shopping tools. Designed with a modular architecture, BeautifAI allows developers to deploy only the components they need while extending functionality through optional plug-in modules.
 
 ---
 
-## ✨ Features
+# Core Modules
 
-### 🧠 AI Beauty Intelligence
-- Skin tone and undertone detection from uploaded selfies
-- Personalized cosmetic shade matching (foundation, concealer, blush, lipstick)
-- Real-time facial analysis using computer vision
-- Adaptive recommendations based on skin type, tone, and preferences
+## AI Analysis Module
+The AI Analysis Module provides the intelligence behind BeautifAI.
 
-### 💄 Virtual Makeup System
-- Real-time virtual makeup try-on
-- Layered cosmetics simulation (foundation, contour, highlight, eye makeup, lips)
-- Adjustable intensity and style presets
-- Before/after comparison views
-
-### 💇 Hairstyle & Hair Color Simulation
-- Virtual haircut and hairstyle try-on (length, texture, style)
-- Hair color transformation (solid, highlights, balayage, ombré)
-- Face shape-based hairstyle recommendations
-- Full combined makeup + hairstyle look previews
-
-### 📸 Media Uploads & Downloads
-- Upload selfies or reference images for AI processing
-- Camera capture support
-- Save generated looks locally or in cloud storage
-- Download before/after transformations and style results
-
-### 🎓 Learning & Tutorials
-- Step-by-step makeup tutorials (beginner to advanced)
-- Hairstyling and hair care guides
-- AI-generated personalized beauty recommendations
-- Video and image-based learning system
-
-### 🛒 Smart Shopping System
-- Compare cosmetic prices across online and local retailers
-- Highlight best-value and budget-friendly options
-- Ingredient safety analysis and warnings
-- Filters for:
-  - Cruelty-free
-  - Vegan
-  - Organic
-  - Non-toxic / clean beauty
-- Wishlist and cart system
-
-### 🧴 Ingredient & Health Awareness
-- Detect potentially harmful cosmetic ingredients
-- Suggest safer alternatives
-- Transparent product breakdowns
-- Skin sensitivity-aware filtering system
-
-### 👤 User Profiles & Personalization
-- Saved looks, shades, and hairstyles
-- Personal beauty history tracking
-- AI-driven recommendations over time
-- Preference-based customization engine
-
-### ☁️ Storage & Sharing
-- Secure image storage system
-- Downloadable beauty transformations
-- Optional sharing system for community use
-- Version history of generated looks
-
-### 🔐 Privacy & Security
-- Encrypted media storage (at rest + in transit)
-- JWT / OAuth2 authentication
-- Optional local-only processing mode
-- No unauthorized image exposure
-
-### 🧩 Modular Architecture
-- Fully modular plug-in system
-- Independent feature modules (makeup, hair, shopping, media)
-- API-first backend design
-- Expandable AI engine layer
+### Features
+- AI-powered skin tone detection
+- Undertone classification
+- Skin type analysis
+- Facial landmark detection
+- Face shape recognition
+- Personalized cosmetic recommendations
+- AI recommendation engine
+- Continuous recommendation improvements
 
 ---
 
-## 🧠 Tech Stack
+## Virtual Makeup Module
 
-### Frontend
-- React Native (mobile app)
-- TailwindCSS (UI styling)
+Provides realistic cosmetic visualization.
 
-### Backend
-- Node.js (Express or NestJS)
-- REST API (optional GraphQL layer)
+### Features
+- Foundation simulation
+- Concealer simulation
+- Blush application
+- Bronzer application
+- Contour simulation
+- Highlighter application
+- Eyeshadow simulation
+- Eyeliner simulation
+- Mascara simulation
+- Eyebrow enhancement
+- Lipstick simulation
+- Lip gloss simulation
+- Layered makeup rendering
+- Before and after comparisons
+- Makeup intensity controls
+- Preset beauty styles
 
-### Database
-- PostgreSQL (structured data)
-- MongoDB (media + flexible data)
+---
 
-### AI / Machine Learning
-- PyTorch (model training)
-- TensorFlow.js (on-device inference)
-- OpenCV (image processing)
-- MediaPipe (facial landmark detection)
+## Hairstyle Module
 
-### Media & Storage
-- MinIO (self-hosted object storage)
-- S3-compatible storage support
+Virtual hairstyle visualization powered by AI.
 
-### Video System
-- HLS streaming for tutorials
-- Optional self-hosted video server
+### Features
+- Hairstyle previews
+- Hair length simulation
+- Hair texture simulation
+- Hair color simulation
+- Highlights
+- Balayage previews
+- Ombre previews
+- Curly hairstyle previews
+- Straight hairstyle previews
+- Face shape recommendations
+- Complete beauty look previews
 
-### Authentication
-- JWT-based authentication
+---
+
+## Media Module
+
+Handles all user media.
+
+### Features
+- Selfie uploads
+- Camera capture
+- Image validation
+- Image optimization
+- Image storage
+- Download generated looks
+- Saved transformations
+- Secure media management
+
+---
+
+## Tutorial Module
+
+Educational content management.
+
+### Features
+- Makeup tutorials
+- Hairstyling tutorials
+- Skin care education
+- Video tutorials
+- Step-by-step guides
+- Image walkthroughs
+- Personalized learning recommendations
+- Progress tracking
+
+---
+
+## Shopping Module
+
+Find products across multiple retailers.
+
+### Features
+- Online price comparison
+- Local retailer comparison
+- Product availability
+- Wishlist management
+- Shopping lists
+- Favorite products
+- Budget-friendly recommendations
+- Alternative product suggestions
+
+---
+
+## Ingredient Intelligence Module
+
+Health-conscious cosmetic analysis.
+
+### Features
+- Ingredient analysis
+- Safety scoring
+- Potential allergen alerts
+- Clean beauty recommendations
+- Vegan filters
+- Cruelty-free filters
+- Organic filters
+- Fragrance-free filters
+- Sensitive skin filtering
+- Safer alternative recommendations
+
+---
+
+## User Module
+
+Personal account management.
+
+### Features
+- User accounts
+- Authentication
+- Saved looks
+- Saved hairstyles
+- Saved products
+- User preferences
+- Beauty history
+- Personalized dashboard
+- Recommendation history
+
+---
+
+## Security Module
+
+Protects user data and privacy.
+
+### Features
+- JWT authentication
 - OAuth2 support
+- Role-based permissions
+- Encrypted media storage
+- Secure uploads
+- Privacy controls
+- Local processing support
+- Audit logging
+
+---
+
+## API Module
+
+Provides system integration.
+
+### Features
+- REST API
+- GraphQL support (optional)
+- API authentication
+- API versioning
+- Rate limiting
+- Webhooks
+- Third-party integrations
+
+---
+
+# Optional Plug-in Modules
+
+These modules can be installed independently without modifying the core platform.
+
+---
+
+## AR Beauty Plug-in
+
+### Features
+- Live camera makeup overlays
+- Real-time beauty filters
+- Live hairstyle previews
+- Live cosmetic application
+
+---
+
+## Community Plug-in
+
+### Features
+- User profiles
+- Shared beauty looks
+- Product reviews
+- Makeup challenges
+- Following creators
+- Commenting
+- Likes and reactions
+
+---
+
+## Professional Artist Plug-in
+
+### Features
+- Client management
+- Portfolio creation
+- Appointment booking
+- Consultation records
+- Custom beauty plans
+
+---
+
+## Salon Plug-in
+
+### Features
+- Salon profiles
+- Stylist management
+- Service catalogs
+- Online booking
+- Availability calendars
+- Customer history
+
+---
+
+## Dermatology Plug-in
+
+### Features
+- Skin condition tracking
+- Progress monitoring
+- Product compatibility
+- Skin health journal
+- Professional recommendations
+
+---
+
+## AI Assistant Plug-in
+
+### Features
+- Conversational beauty assistant
+- Personalized recommendations
+- Routine planning
+- Shopping assistance
+- Tutorial guidance
+
+---
+
+## Wardrobe Plug-in
+
+### Features
+- Outfit management
+- Color coordination
+- Makeup matching
+- Hairstyle coordination
+- Seasonal styling
+
+---
+
+## Beauty Routine Plug-in
+
+### Features
+- Daily routines
+- Morning routines
+- Evening routines
+- Reminders
+- Progress tracking
+- Routine scheduling
+
+---
+
+## Rewards Plug-in
+
+### Features
+- Achievement badges
+- Loyalty rewards
+- Daily challenges
+- Referral rewards
+- Community milestones
+
+---
+
+## Retail Partner Plug-in
+
+### Features
+- Retail inventory integration
+- Live pricing
+- Store availability
+- Promotions
+- Coupons
+- Cashback integration
+
+---
+
+## Analytics Plug-in
+
+### Features
+- User analytics
+- Recommendation analytics
+- Product popularity
+- Shopping trends
+- AI model performance
+- Usage reports
+
+---
+
+## Localization Plug-in
+
+### Features
+- Multi-language support
+- Regional product catalogs
+- Local retailers
+- Currency conversion
+- Regional beauty trends
+
+---
+
+## Developer SDK Plug-in
+
+### Features
+- SDK libraries
+- API client generation
+- Extension framework
+- Module templates
+- Custom AI model integration
+
+---
+
+# Technology Stack
+
+## Frontend
+- React Native
+- TypeScript
+- TailwindCSS
+
+## Backend
+- Node.js
+- Express or NestJS
+
+## Database
+- PostgreSQL
+- MongoDB
+
+## AI & Machine Learning
+- PyTorch
+- TensorFlow.js
+- OpenCV
+- MediaPipe
+
+## Storage
+- MinIO
+- S3-compatible storage
+
+## Authentication
+- JWT
+- OAuth2
+
+## Video
+- HLS Streaming
+- Self-hosted media server support
 
 ---
 
