@@ -73,9 +73,9 @@ Open-source platform that monitors, analyzes, and visualizes PHI transmissions w
   [https://roxanneardary.com/smartsmile/](https://roxanneardary.com/smartsmile/)  
   An open-source AI-powered dental transparency platform for comparing pricing, verifying specials, detecting upsells, analyzing dental imaging, and helping patients find trustworthy, affordable care.  
 
-- **The Interpretation Layer**  
+- [**The Interpretation Layer Module Specification**](https://github.com/openarsenalspecs/Health/blob/e07c837161f062332da04ae834b726a07bc8ab31/The%20Interpretation%20Layer.md)    
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
-The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.
+The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.  
 
 ---
 
