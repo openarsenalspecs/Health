@@ -49,6 +49,10 @@ GentleCardia is an open-source, modular cardiac biosensing specification designe
   [https://roxanneardary.com/medinet-ai/](https://roxanneardary.com/medinet-ai/)  
   An open-source AI platform for medical/dental image analysis with multi-modal disease detection (X-rays, CT, MRI, etc.), predictive modeling, explainable AI (heatmaps, confidence scores), automated reporting, EMR integration, patient engagement, and federated learning for clinical support and research.
 
+- [**MolecularAI Module Specification**](https://github.com/openarsenalspecs/Health/blob/fff1ba539ccd8ad63c67b67c03b6c185991c022e/MolecularAI.md)  
+[https://roxanneardary.com/molecularai/](https://roxanneardary.com/molecularai/)  
+An open-source modular platform for molecular intelligence, gene therapy research, nanotechnology, digital twins, autonomous scientific discovery, and advanced molecular design.
+
 - [**PHITrack Module Specification**](https://github.com/openarsenalspecs/Health/blob/015e7ec7749e45001ec75ae0b66ec6641e0ad74e/PHITrack.md)  
 [https://roxanneardary.com/phitrack/](https://roxanneardary.com/phitrack/)  
 Open-source platform that monitors, analyzes, and visualizes PHI transmissions with AI-driven insights, dashboards, alerts, and predictive risk scoring while maintaining human oversight.  
