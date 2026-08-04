@@ -25,7 +25,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
   An open-source AI-driven beauty platform for personalized makeup and hairstyle recommendations via skin tone/facial analysis and virtual try-on, including health-conscious shopping recommendations that highlight ingredient safety, non-toxic, cruelty-free, and vegan options.
 
-- **Continuum Companion**  
+- [**Continuum Companion Module Specification**](https://github.com/openarsenalspecs/Health/blob/003769a7a12a1c5ad36fcf3f04933da001b8e3fb/Continuum%20Companion.md)    
   [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
   A modular, locally hosted, open-source AI platform designed to support integrative understanding of health, wellness, and human experience. It integrates structured AI research, evidence-backed information retrieval (distinguishing Western medical knowledge, Eastern traditions, and wellness practices), reflective tools, research archiving, and personalized wellness plan creation, with full privacy via local hosting.
 
