@@ -53,9 +53,9 @@ GentleCardia is an open-source, modular cardiac biosensing specification designe
 [https://roxanneardary.com/phitrack/](https://roxanneardary.com/phitrack/)  
 Open-source platform that monitors, analyzes, and visualizes PHI transmissions with AI-driven insights, dashboards, alerts, and predictive risk scoring while maintaining human oversight.  
 
-- **Quantum Synapse**  
+- [**Quantum Synapse Module Specification**](https://github.com/openarsenalspecs/Health/blob/8eb9bacf91947c2eee5ecd0d5f7eb64a96057842/Quantum%20Synapse.md)    
   [https://roxanneardary.com/quantum-synapse/](https://roxanneardary.com/quantum-synapse/)  
-  An open-source, non-invasive brain-computer interface (BCI) platform using wearable EEG technology for real-time neural signal processing, mind-controlled interaction, cognitive state detection, and applications in accessibility and smart systems, with strong emphasis on privacy and local processing.
+  An open-source, non-invasive brain-computer interface (BCI) platform using wearable EEG technology for real-time neural signal processing, mind-controlled interaction, cognitive state detection, and applications in accessibility and smart systems, with strong emphasis on privacy and local processing.  
 
 - [**ResponseOS Module Specification**](https://github.com/openarsenalspecs/Health/blob/0593eb5c8522afe661626efcbac90b36da4071c4/ResponseOS.md)  
   [https://roxanneardary.com/responseos/](https://roxanneardary.com/responseos/)  
