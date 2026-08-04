@@ -69,9 +69,9 @@ Open-source platform that monitors, analyzes, and visualizes PHI transmissions w
   [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
   An open-source AI-driven clinical documentation platform for generating HIPAA-compliant medical notes via voice commands, real-time transcription, SOAP notes, coding suggestions, with EHR interoperability, specialty templates, and secure self-hosting.
 
-- **SmartSmile**  
+- [**SmartSmile Module Specification**](https://github.com/openarsenalspecs/Health/blob/5ccf662d6830d8ffe0d6d611328fd11bbc273361/SmartSmile.md)    
   [https://roxanneardary.com/smartsmile/](https://roxanneardary.com/smartsmile/)  
-  An open-source AI-powered dental transparency platform for comparing pricing, verifying specials, detecting upsells, analyzing dental imaging, and helping patients find trustworthy, affordable care.
+  An open-source AI-powered dental transparency platform for comparing pricing, verifying specials, detecting upsells, analyzing dental imaging, and helping patients find trustworthy, affordable care.  
 
 - **The Interpretation Layer**  
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
