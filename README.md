@@ -65,9 +65,9 @@ Open-source platform that monitors, analyzes, and visualizes PHI transmissions w
   [https://roxanneardary.com/responseos/](https://roxanneardary.com/responseos/)  
   An open-source platform for reproducible clinical research analysis using Bayesian modeling, meta-analysis, and normalized clinical trial data to evaluate treatment effectiveness versus placebo responses and improve transparency in biomedical literature.
 
-- [**SafeMeds Index Module Specification**](https://github.com/openarsenalspecs/Health/blob/fa9ed171546887d7c40bd81f48fadef39696f70f/SafeMeds%20Index.md)    
+- [**SafeMeds Index Module Specification**](https://github.com/openarsenalspecs/Health/blob/5d6477cd68598cbed7f72aaef8333ea0cd236a09/SafeMeds%20Index.md)  
   [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
-  An open-source global pharmaceutical intelligence platform for medication price transparency (international comparisons), manufacturer/supply chain tracking, recall monitoring, AI-driven safety analysis, adverse event insights, and evidence-based therapeutic/generic alternatives.
+  An open-source global pharmaceutical intelligence platform for medication price transparency (international comparisons), manufacturer/supply chain tracking, recall monitoring, AI-driven safety analysis, adverse event insights, and evidence-based therapeutic/generic alternatives.  
 
 - [**ScribeVault Module Specification**](https://github.com/openarsenalspecs/Health/blob/aee3749295383ace2a4484a5252fb9907fa2eb73/ScribeVault.md)    
   [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
