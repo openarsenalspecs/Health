@@ -29,7 +29,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
   [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
   A modular, locally hosted, open-source AI platform designed to support integrative understanding of health, wellness, and human experience. It integrates structured AI research, evidence-backed information retrieval (distinguishing Western medical knowledge, Eastern traditions, and wellness practices), reflective tools, research archiving, and personalized wellness plan creation, with full privacy via local hosting.
 
-- [**CureLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/cf4a69a7ba20ffe5533b45cdb7818be10d18e8ca/CureLens.md)    
+- [**CureLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/181cb792ff96b280f1a35499ab764e7a727eee5d/CureLens.md)  
   [https://roxanneardary.com/curelens/](https://roxanneardary.com/curelens/)  
   An open-source platform that analyzes clinical trial data to compare placebo and treatment outcomes, flag anomalies (e.g., high placebo performance), uncover patterns in medical efficacy, and support meta-analysis and reproducible research.  
 
