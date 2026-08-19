@@ -37,7 +37,7 @@ At the frontier, the specs also include emerging neurotechnology interfaces usin
 [https://roxanneardary.com/gentlecardia/](https://roxanneardary.com/gentlecardia/)  
 GentleCardia is an open-source, modular cardiac biosensing specification designed to create safe, transparent, and interoperable infrastructure for ECG acquisition, signal processing, and health technology development. Built with a safety-first architecture, GentleCardia enables researchers, developers, and innovators to create extensible cardiac sensing systems with open hardware, software, data standards, and AI integration
 
-- [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/5fc39495ec7844d82dbcc973f51d3d9a132af6f2/GoldenLens.md)  
+- [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/576fbb32c08e5eae53ff961db7d235c357e948ef/GoldenLens.md)  
   [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)  
   An open-source AI-powered application that helps users explore multiple perspectives on their thoughts, situations, and emotions to reduce mental rigidity, ease emotional stress, and support clearer, more compassionate thinking. Includes guided reflection, mood tracking, and mental well-being features with a focus on privacy and non-clinical supportive reframing.  
 
