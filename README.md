@@ -79,7 +79,11 @@ Open-source platform that monitors, analyzes, and visualizes PHI transmissions w
 
 - [**The Interpretation Layer Module Specification**](https://github.com/openarsenalspecs/Health/blob/e07c837161f062332da04ae834b726a07bc8ab31/The%20Interpretation%20Layer.md)    
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
-The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.  
+The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.
+
+- [**Therovia Module Specification**](https://github.com/openarsenalspecs/Health/blob/c45973afcd6b9e28a4e9f482d9a581a1bb769564/Therovia.md)  
+[https://roxanneardary.com/therovia/](https://roxanneardary.com/therovia/)  
+Therovia is a global AI-powered treatment intelligence system designed to discover, organize, verify, and compare treatment options, clinical trials, experimental therapies, and potential access pathways from around the world. Its open source specification emphasizes comprehensive treatment discovery while clearly distinguishing evidence, safety, regulatory status, availability, and legal access.  
 
 ---
 
