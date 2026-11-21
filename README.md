@@ -19,6 +19,26 @@ The Health specifications define a unified ecosystem of open-source, privacy-fir
 
 At the frontier, the specs also include emerging neurotechnology interfaces using wearable EEG systems for cognitive state detection and assistive control, positioning the ecosystem as both medical infrastructure and human augmentation framework. The overall design philosophy connects personal wellness, clinical-grade analytics, and global health transparency into a single interoperable architecture. A Specification Branding License may be negotiated for organizations or deployers who wish to use these systems in attribution-free commercial or networked environments, with pricing determined by the size, scale, and scope of the deployment network.
 
+---
+
+### Specification FAQs
+
+**The Open Arsenal specifications are designed as foundations, not disposable products.** They define reusable architectures that can be implemented, extended, combined, modified, and adapted to changing technologies and real-world requirements. Modular design allows individual capabilities to evolve without forcing an entire system to be replaced, while vendor-neutral architecture helps preserve independence and interoperability.
+
+**Long-term infrastructure requires long-term thinking.** Open-source licensing encourages examination, reuse, modification, and collaboration, while perpetual commercial licensing can provide organizations with lasting rights to deploy a specification without making foundational infrastructure dependent on recurring licensing renewals. The objective is to create technological foundations that can remain useful as companies, technologies, platforms, and business models change.
+
+1. [Understanding the Specifications](https://roxanneardary.com/understanding-the-specifications/)
+2. [How the Specifications Are Designed](https://roxanneardary.com/how-the-specifications-are-designed/)
+3. [Building From a Specification](https://roxanneardary.com/building-from-a-specification/)
+4. [Why Modularity Matters for the Future](https://roxanneardary.com/why-modularity-matters-for-the-future/)
+5. [Interoperability and Independence](https://roxanneardary.com/interoperability-and-independence/)
+6. [Open Source and Licensing](https://roxanneardary.com/open-source-and-licensing/)
+7. [Perpetual Licensing](https://roxanneardary.com/perpetual-licensing/)
+8. [The Bigger Vision](https://roxanneardary.com/the-bigger-vision/)
+9. [Specification Branding License](https://roxanneardary.com/specification-branding-license/)
+
+---
+
 ## Health Specs
 
 - [**BeautifAI Module Specification**](https://github.com/openarsenalspecs/Health/blob/50ae48739fcf1cf45b2f2dc30236633694e6e5f2/BeautifAI.md)    
